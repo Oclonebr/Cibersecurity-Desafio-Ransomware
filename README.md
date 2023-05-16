@@ -4,7 +4,7 @@
 ## Ferramentas
 - Vsconde
 - Phyton
-- 
+
 ## Descrição
 O desafio proposto durante o curso de segurança cibernética foi desenvolver um ransomware usando a linguagem Python, capaz de criptografar e descriptografar um arquivo. O objetivo era entender o funcionamento básico desse tipo de malware e compreender as medidas de segurança necessárias para se proteger contra ele.
 
